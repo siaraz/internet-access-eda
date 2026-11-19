@@ -1,0 +1,14 @@
+dataset,column,missing_count,missing_percent
+internet,entity,0,0.0
+internet,code,0,0.0
+internet,year,0,0.0
+internet,it_net_user_zs,0,0.0
+gdp,entity,0,0.0
+gdp,code,0,0.0
+gdp,year,0,0.0
+gdp,ny_gdp_pcap_pp_kd,0,0.0
+gdp,owid_region,468,6.286098052384151
+life_expectancy,entity,0,0.0
+life_expectancy,code,1348,6.250869464409924
+life_expectancy,year,0,0.0
+life_expectancy,life_expectancy_0,0,0.0

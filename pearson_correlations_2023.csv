@@ -1,0 +1,4 @@
+comparison,first_variable,second_variable,observations,pearson_r,p_value
+Internet access and GDP per capita,it_net_user_zs,ny_gdp_pcap_pp_kd,177,0.6648234915496334,6.098232343001415e-24
+Internet access and life expectancy,it_net_user_zs,life_expectancy_0,181,0.8039496529490161,2.933332999872303e-42
+GDP per capita and life expectancy,ny_gdp_pcap_pp_kd,life_expectancy_0,177,0.7550169832908097,6.668470759748571e-34

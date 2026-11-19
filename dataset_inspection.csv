@@ -1,0 +1,4 @@
+dataset,rows,columns,missing_cells,missing_code_rows,aggregate_code_rows,duplicate_rows,duplicate_country_year,first_year,last_year,unique_entities
+internet,6659,4,0,0,437,0,0,1990,2025,231
+gdp,7445,5,468,0,486,0,0,1990,2025,212
+life_expectancy,21565,4,1348,1348,765,0,0,1543,2023,265
