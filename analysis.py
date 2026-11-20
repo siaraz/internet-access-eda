@@ -147,7 +147,6 @@ def save_correlations(internet_gdp, internet_life, all_three):
     )
 
 
-
 def save_change_analysis(internet_gdp):
     """Calculate country-level changes between 2000 and 2023."""
     selected = internet_gdp[
@@ -318,7 +317,6 @@ def create_figures(internet_gdp, internet_life, all_three):
     plt.tight_layout()
     plt.savefig(FIGURE_DIR / "change_distributions_2000_2023.png", dpi=200)
     plt.close()
-
 
 
 def main():

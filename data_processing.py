@@ -42,4 +42,3 @@ def clean_and_merge(internet, gdp, life):
         life, on=["code", "year"], how="inner"
     )
     return internet_gdp, internet_life, all_three
-
